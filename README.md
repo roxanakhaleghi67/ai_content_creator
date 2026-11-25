@@ -1,5 +1,7 @@
 # AI Poem/Lyrics Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+
 Generate creative text such as poetry or lyrics from a given topic using a Hugging Face text-generation pipeline.
 
 ## Features
